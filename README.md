@@ -1,3 +1,3 @@
 "# js_HangmanMVC_practice" 
 
-Hangman game in pure JS using an MVC model.
+Hangman game in jquery, js, bootstrap, html, css using an MVC model.
