@@ -1,0 +1,29 @@
+.container-fluid {
+  text-align: center;
+}
+
+#reset {
+  margin-top: 25px;
+}
+
+#underscores {
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+#def {
+  margin-top: 15px;
+}
+
+#heading {
+  margin-bottom: px;
+}
+
+#score {
+  font-size: 15px;
+}
+
+#lives {
+  font-size: 15px;
+}
+
